@@ -5,7 +5,7 @@ import seaborn as sns
 import numpy as np
 
 # Configuration
-API_KEY = 'OpenWeatherMap Key'  #Enter your key 
+API_KEY = 'YOUR_API_KEY_HERE'  #Enter your key (eg.OpenWheatherMap )
 CITIES = ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata','Solapur', 'Pune']  
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
